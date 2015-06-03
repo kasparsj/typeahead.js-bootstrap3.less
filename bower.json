@@ -6,7 +6,7 @@
     "typeahead.less"
   ],
   "dependencies": {
-    "bootstrap": "~3.1.0",
+    "bootstrap": "~3",
     "typeahead.js": "~0.11.1"
   },
   "ignore":[
